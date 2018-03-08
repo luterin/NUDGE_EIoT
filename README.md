@@ -7,8 +7,8 @@ Refer https://www.kdn.com/index.kdn?sid=a2#mainSection1 for more information.
 # Requirements
 
   - CC13XX Based IoT gateway & Sensor node
-  - Contiki OS 3.0
+  - Contiki OS NG(Next Gen.)
   - 917 ~ 923.5MHz RF Solution for wireless connectivity (If required)
 
 # License
-GPLv3
+3-clause BSD
